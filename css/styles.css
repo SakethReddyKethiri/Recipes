@@ -2,11 +2,18 @@
     
     background-color: black;
     color :antiquewhite;
+    /*color is for text*/
 }
+/* * is used to apply changes for every html element*/
 
 a {
     color :aqua;
 }
+/*makes link aqua color
+  latest changes apply so this overides color for a element 
+*/
+
 ul {
     list-style-type: square;
 }
+/*changes the style of bullets to squares*/
